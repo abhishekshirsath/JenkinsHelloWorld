@@ -1,5 +1,5 @@
 class HelloWorld{
 public static void main(String args[]){
-System.out.println("Hello Jenkins tutorials after second commit");
+System.out.println("Hello Jenkins tutorials after third commit");
 }
 }
